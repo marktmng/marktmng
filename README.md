@@ -19,7 +19,7 @@ A **Master’s in IT (Software Development)** student at Auckland Institute of S
 
 | **Frontend**           | **Backend**          | **Cloud & DevOps**      | **Design**             |
 |------------------------|----------------------|-------------------------|------------------------|
-| ReactJS, NextJS        | Python, ASP.NET, C#  | AWS, Azure, GCP         | Figma, Adobe XD        |
+| ReactJS, NextJS        | ASP.NET, C#, Python  | AWS, Azure, GCP         | Figma, Adobe XD        |
 | Bootstrap, HTML/CSS    | Django, RESTful APIs | GitHub Actions, Vercel  | Illustrator, Photoshop |
 | React Native           | PostgreSQL, MySQL    | CircleCI, Docker        | Canva, Prototyping     |
 
