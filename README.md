@@ -1,4 +1,4 @@
-# 👨💻 Mark Tamang | Fullstack Developer
+# 👨💻 Mark Tamang | Software Developer
 
 ![Header GIF](https://github.com/marktmng/marktmng/blob/main/assets/developer.gif?raw=true)
 
@@ -11,7 +11,7 @@
 ### 🚀 **About Me**
 > *"Blending code and creativity to build seamless digital experiences."*
 
-A **Master’s in IT (Software Development)** student at Auckland Institute of Studies, with expertise in fullstack development, cloud platforms, and UI/UX design. Currently working as a **Software Developer @ Source Infinity**, specializing in e-commerce solutions and scalable web applications. Passionate about clean code, intuitive design, and solving real-world problems through technology.
+A **Master’s in IT (Software Development)** student at Auckland Institute of Studies, with expertise in software development, cloud platforms, and UI/UX design. Currently interning as a **Software Developer @ Source Infinity**. Passionate about clean code, intuitive design, and solving real-world problems through technology.
 
 ---
 
