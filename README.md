@@ -41,4 +41,4 @@ A **Master’s in IT (Software Development)** student at Auckland Institute of S
 
 ---
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2hiQ_nsjkFKHGUPv_EWJt_&ust=1743069233460000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiPjIe9p4wDFQAAAAAdAAAAABAy
+<img src=(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2hiQ_nsjkFKHGUPv_EWJt_&ust=1743069233460000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiPjIe9p4wDFQAAAAAdAAAAABAy)/>
