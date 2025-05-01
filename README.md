@@ -33,7 +33,7 @@ A Master’s in IT (Software Development) student at Auckland Institute of Studi
 
 ---
 
-### 📬 **Let’s Collaborate!**
+### 📬 **Get in Touch!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marktmng)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/marktmng)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat)](https://www.marktmng.com)
