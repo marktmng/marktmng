@@ -3,7 +3,7 @@
 ![Header GIF](https://github.com/marktmng/marktmng/blob/main/assets/developer.gif?raw=true)
 
 **📍 Auckland, NZ**  
-**📧 mailsareaccepting@gmail.com**  
+**📧 marktmg.info@gmail.com**  
 **🌐 [Portfolio](https://www.marktmng.com) | [LinkedIn](https://www.linkedin.com/in/marktmng) | [GitHub](https://github.com/marktmng)**
 
 ---
