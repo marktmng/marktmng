@@ -1,5 +1,5 @@
 # 👨 Mark Tamang
-💻 Software Developer
+> *"💻 Software Developer"*
 
 ![Header GIF](https://github.com/marktmng/marktmng/blob/main/assets/developer.gif?raw=true)
 
