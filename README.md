@@ -21,7 +21,7 @@ I am a **Software Developer** with a **completed Master’s degree in Informatio
 |-------------|-------------|---------------|-------------------|------------|
 | ReactJS, Next.js | ASP.NET, C#, Python, Node.js, Express | SQL Server, MySQL, PostgreSQL, Convex | AWS, Azure, GCP | Figma, Canva |
 | React Native | Django, RESTful APIs | | Docker, GitHub Actions, CircleCI, Vercel | Illustrator, Photoshop, Indesign, Lightroom, Premier Pro, After Effects |
-| HTML, CSS, Bootstrap | | | CI/CD Pipelines | Visual Design |
+| HTML, CSS, Tailwind, MUI, Bootstrap | | | CI/CD Pipelines | Visual Design |
 
 ---
 
