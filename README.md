@@ -6,7 +6,7 @@
 
 **📍 Auckland, NZ**  
 **📧 marktmg.info@gmail.com**  
-**🌐 [Portfolio](https://marktmg.com/) | [LinkedIn](https://www.linkedin.com/in/marktmng) | [GitHub](https://github.com/marktmng)**
+**🌐 [Portfolio](https://marktmg.com/) | [LinkedIn](https://www.linkedin.com/in/marktmng) 
 
 ---
 
