@@ -43,7 +43,7 @@ I am a **Software Developer** with a **completed Master’s degree in Informatio
 ### 🎯 **Current Focus**
 - Full‑stack development with **.NET, React, and Next.js**  
 - Cloud‑native application design on **AWS and Azure**  
-- CI/CD automation and containerisation with **Docker**  
+- CI/CD automation  
 - Writing clean, testable, and scalable code
 
 ---
