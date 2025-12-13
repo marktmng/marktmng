@@ -11,7 +11,7 @@
 ### 🚀 **About Me**
 > *"Blending code and creativity to build scalable, user‑centric digital solutions."*
 
-I am a **Software Developer** with a **completed Master’s degree in Information Technology (Software Development)** from Auckland Institute of Studies. I have hands‑on experience across full‑stack development, cloud platforms, and graphic design for digital products, supported by professional internships as a **Software Developer at Source Infinity** and a **Frontend Developer at Brunton NZ**. I am focused on building maintainable systems, clean APIs, and intuitive user interfaces that solve real‑world business problems.
+I am a **Software Developer** with a **completed Master’s degree in Information Technology (Software Development)**. I have hands‑on experience across full‑stack development, cloud platforms, and graphic design for digital products, supported by professional internships as a **Software Developer at Source Infinity** and a **Frontend Developer at Brunton NZ**. I am focused on building maintainable systems, clean APIs, and intuitive user interfaces that solve real‑world business problems.
 
 ---
 
