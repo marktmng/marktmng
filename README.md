@@ -11,7 +11,7 @@
 ### 🚀 **About Me**
 > *"Blending code and creativity to build scalable, user‑centric digital solutions."*
 
-I am a **Software Developer** with a **completed Master’s degree in Information Technology (Software Development)**. I have hands‑on experience across full‑stack development, cloud platforms, and graphic design for digital products, supported by professional internships as a **Software Developer at Source Infinity** and a **Frontend Developer at Brunton NZ**. I am focused on building maintainable systems, clean APIs, and intuitive user interfaces that solve real‑world business problems.
+I am a **Software Developer** and **Cloud Engineer** with hands-on experience across full-stack development, cloud platforms, and graphic design for digital products, supported by professional internships as a **Software Developer at Source Infinity** and a **Frontend Developer at Brunton NZ**. I am open to starting in any IT-related role aligned with my academic background, where I can contribute effectively while continuing to develop my technical and professional skills. I am highly motivated, quick to learn, and genuinely passionate about information technology, with a strong focus on building maintainable systems, clean APIs, and intuitive user interfaces that solve real-world business problems.
 
 ---
 
