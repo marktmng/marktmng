@@ -3,7 +3,7 @@
 ![Header GIF](https://github.com/marktmng/marktmng/blob/main/assets/developer.gif?raw=true)
 
 **📍 Auckland, NZ**  
-**📧 marktmg.info@gmail.com**  
+**📧 marktmg.com@gmail.com**  
 **🌐 [Portfolio](https://marktmg.com/) | [LinkedIn](https://www.linkedin.com/in/marktmng)**
 
 ---
@@ -52,7 +52,7 @@ I am a **Software Developer** and **Cloud Engineer** with hands-on experience ac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marktmng)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/marktmng)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat)](https://marktmg.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:marktmg.info@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:marktmg.com@gmail.com)
 
 ---
 
