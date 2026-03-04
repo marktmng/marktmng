@@ -20,8 +20,8 @@ I am a **Software Developer** and **Cloud Engineer** with hands-on experience ac
 | **Frontend** | **Backend** | **Databases** | **Cloud & DevOps** | **Design (Graphic & Digital)** |
 |-------------|-------------|---------------|-------------------|------------|
 | ReactJS, Next.js | ASP.NET, C#, Python, Node.js, Express | SQL Server, MySQL, PostgreSQL, Convex | AWS, Azure, GCP | Figma, Canva |
-| React Native | Django, RESTful APIs | | Docker, GitHub Actions, CircleCI, Vercel | Illustrator, Photoshop, Indesign, Lightroom, Premier Pro, After Effects |
-| HTML, CSS, Tailwind, MUI, Bootstrap | | | CI/CD Pipelines | Visual Design |
+| React Native | Django, RESTful APIs | | Docker, GitHub Actions, CircleCI, Vercel, Neon | Illustrator, Photoshop, Indesign, Lightroom, Premier Pro, After Effects |
+| HTML, CSS, Tailwind, MUI, Shacn, Bootstrap | | | CI/CD Pipelines | Visual Design |
 
 ---
 
