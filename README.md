@@ -11,7 +11,11 @@
 ### 🚀 **About Me**
 > *"Blending code and creativity to build scalable, user‑centric digital solutions."*
 
-I am a **Software Developer** and **Cloud Engineer** with hands-on experience across full-stack development, cloud platforms, and graphic design for digital products, supported by professional internships as a **Software Developer at Source Infinity** and a **Frontend Developer at Brunton NZ**. I am open to starting in any IT-related role aligned with my academic background, where I can contribute effectively while continuing to develop my technical and professional skills. I am highly motivated, quick to learn, and genuinely passionate about information technology, with a strong focus on building maintainable systems, clean APIs, and intuitive user interfaces that solve real-world business problems.
+Software Developer with a Master of Information Technology (Software Development) and hands-on experience developing full-stack applications using ASP.NET Core, React, SQL Server, and cloud technologies. Experienced working in agile environments through internships at Source Infinity and Brunton NZ, contributing to web applications, REST APIs, frontend systems, and deployment workflows.
+
+Passionate about building scalable backend systems, clean APIs, and responsive user interfaces with a strong interest in cloud engineering and DevOps. Also brings UI-focused and creative experience from Shopify and freelance projects, combining technical development with practical design thinking.
+
+Currently preparing for AWS certification and continuously building projects with .NET, React, Next.js, and modern cloud workflows.
 
 ---
 
