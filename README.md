@@ -46,7 +46,7 @@ Currently preparing for AWS certification and continuously building projects wit
 
 ### 🎯 **Current Focus**
 - Full‑stack development with **.NET, React, and Next.js**  
-- Cloud‑native application design on **AWS and Azure**  
+- Cloud‑native application design on **AWS, Azure, Cloudflare, Vercel and GCP**  
 - CI/CD automation  
 - Writing clean, testable, and scalable code
 
